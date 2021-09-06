@@ -112,7 +112,7 @@ The technical project will be due at 8:00 am PT on Monday, Febuary 8th. We will 
 
 ### **When is the assessment due?**
 
-Please submit your exercise by 8:00 am PT on Monday, Febuary 8th. We will be unable to respond to clarification emails sent in after 11:59 pm PST on Sunday, February 7th, so if you have any questions about the project, please let us know before then. 
+Please submit your exercise by 8:00 am PT on Saturday, September 11th.
 
 ### **Which browsers should I support?**
 
