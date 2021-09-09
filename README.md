@@ -98,7 +98,7 @@ All images required to create the replica are provided in the img folder.
 
 Take a look at the `submission.md` file before submitting. If you deviated from the instructions or have any feedback, that's the place to put it!
 
-To submit your project, please place your submission into a GitHub repo that is set to private. You will be submitting your code on [Gradescope](https://www.gradescope.com/). If you do not have a Gradescope account, please create one and if you are unable to create one, please email us immediately. The Gradescope course code is `BP347P`. You will see two different assignments: `Frontend Technical Project` and `Backend Techinical Project`. _Please only submit to Frontend Technical Project._ You can ignore Backend Technical Project.
+To submit your project, please place your submission into a GitHub repo that is set to private. You will be submitting your code on [Gradescope](https://www.gradescope.com/). If you do not have a Gradescope account, please create one and if you are unable to create one, please email us immediately. The Gradescope course code is `YV5D4N`. You will see two different assignments: `Frontend Technical Project` and `Backend Techinical Project`. _Please only submit to Frontend Technical Project._ You can ignore Backend Technical Project.
 
 The technical project will be due at 8:00 am PT on Monday, Febuary 8th. We will be unable to respond to clarification emails sent in after 11:59 pm PST on Sunday, February 7th, so if you have any questions about the project, please let us know before then. 
 
